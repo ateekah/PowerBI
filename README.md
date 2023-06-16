@@ -1,3 +1,4 @@
+#The information that is  provided "as is" without warranty of any kind. 
 # PowerBI
 Keep Track of your Running with a PowerBI template
 
